@@ -1,0 +1,27 @@
+{
+    "cards":[{
+        "image":"Image/1+.jpg",
+        "name":"One Plus Nord 2",
+        "rate":"30000/-",
+        "offer":"28000/-",
+        "button":"View"
+    },{
+        "image":"Image/Apple.jpg",
+        "name":"Apple iPhone 12",
+        "rate":"85000/-",
+        "offer":"70000/-",
+        "button":"View"
+    },{
+        "image":"Image/Oppo.jpg",
+        "name":"Oppo Reno 6",
+        "rate":"30000/-",
+        "offer":"28000/-",
+        "button":"View"
+    },{
+        "image":"Image/Samsung.jpg",
+        "name":"Samsung S20 FE",
+        "rate":"45000/-",
+        "offer":"35000/-",
+        "button":"View"
+    }]
+}
